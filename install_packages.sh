@@ -1,6 +1,6 @@
 #!/bin/bash
 
-pkgs=(git terminator curl vlc fzf obs-studio ffmpeg tldr neofetch net-tools python3 python3-pip)
+pkgs=(git terminator gnome-tweaks gnome-shell-extension-system-monitor curl vlc fzf obs-studio ffmpeg tldr neofetch net-tools python3 python3-pip)
 snaps=(btop)
 
 echo -e "\nUPDATE\n"
